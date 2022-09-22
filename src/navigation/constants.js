@@ -1,0 +1,8 @@
+export default {
+  MAIN: 'MAIN',
+  HOME: 'HOME',
+  BOOKMARKS: 'BOOKMARKS',
+  ANSWERS: 'ANSWERS',
+  SEARCH: 'SEARCH',
+  USERS: 'USERS',
+};
